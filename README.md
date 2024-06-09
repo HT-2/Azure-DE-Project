@@ -1,7 +1,6 @@
 # Overview
 This project implements an end-to-end data engineering pipeline on Azure to analyze Olympic data. The pipeline covers data extraction, transformation, and storage using various Azure services.
 
-
 # Components
 ## Azure Data Factory (ADF):
 Responsible for data extraction from various sources (e.g., APIs, databases, files).
